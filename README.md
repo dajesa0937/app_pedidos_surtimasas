@@ -1,16 +1,39 @@
-# app_pedidos_surtimasas
+# Aplicación Móvil para Gestión de Domicilios
 
-A new Flutter project.
+## Descripción
 
-## Getting Started
+Aplicación móvil desarrollada para la gestión de pedidos y domicilios de Surtimasas de la Costa.
 
-This project is a starting point for a Flutter application.
+El proyecto incluye el desarrollo del frontend móvil y el backend, permitiendo la administración de pedidos, clientes y comunicación mediante servicios REST.
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Registro de usuarios
+- Inicio de sesión
+- Gestión de pedidos
+- Consulta de productos
+- Comunicación mediante API REST
+- Base de datos PostgreSQL
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologías
+
+- Flutter
+- Node.js
+- Express
+- PostgreSQL
+- JavaScript
+- Git
+
+## Arquitectura
+
+Flutter
+⬇
+API REST Node.js
+⬇
+PostgreSQL
+
+## Autor
+
+Dawin de Jesús Salazar Oviedo
+
+Ingeniero de Software y Datos
